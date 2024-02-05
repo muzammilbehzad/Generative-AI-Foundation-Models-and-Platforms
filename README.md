@@ -1,8 +1,8 @@
 # Generative AI: Foundation Models and Platforms
 
 The knowledge base contanis a specialization overview from the course [Generative AI: Foundation Models and Platforms](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms/) by [IBM](https://www.ibm.com/us-en) on [Coursera](https://www.coursera.org/). It is divided into following modules:
-- [Core Concepts and Models of Generative AI](modules/Core%20Concepts%20and%20Models%20of%20Generative%20AI.md)
-- [Pre-trained Models and Platforms for AI Applications Development](modules/Pre-trainedModelsandPlatformsforAIApplicationsDevelopment.md)
+- [Core Concepts and Models of Generative AI](Core%20Concepts%20and%20Models%20of%20Generative%20AI.md)
+- [Pre-trained Models and Platforms for AI Applications Development](Pre-trainedModelsandPlatformsforAIApplicationsDevelopment.md)
 
 ![](info.png)
 
